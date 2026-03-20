@@ -8,7 +8,7 @@ A fully Azure-native CI/CD pipeline that automatically tests, builds, and deploy
 
 ## Architecture
 
-![Architecture Diagram](architecture.svg)
+![Architecture Diagram](architecture.png)
 
 ---
 
